@@ -14,7 +14,7 @@ The google search request task is performed in Firefox web browser can be found 
 Also there is test example from question 7 for writing proper selector for element by XPath. This test can be found in test/java/ChromeTest.java   
 
 ## Build Project via Maven
-In order to build project and observe test results, clone the repo, make sure that latest java jdk and maven are installed and PATH variables defined properly, clone repo, open terminal, navigate to project root directory and run: 
+In order to build project and observe test results, clone the repo, make sure that latest java jdk and maven are installed and PATH variables defined properly, open terminal, navigate to project root directory and run: 
 ```sh
 mvn test
 ```
